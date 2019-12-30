@@ -1,0 +1,7 @@
+*.o
+*.sfc
+*.srm
+*.sym
+tmp
+.project
+.pydevproject
