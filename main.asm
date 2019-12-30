@@ -20,7 +20,7 @@
 
 ;
 ; ROM banks $00-03:8000-FFFF are used. These would usually be mirrored to
-; $80-$83:8000-FFFF but that space resides in the expansion SRAM in the BIOS
+; $80-$83:8000-FFFF but that space resides in the expansion WRAM in the BIOS
 ; cartridge in this case.
 ;
 ; Main program (title screen, RAM menu)
