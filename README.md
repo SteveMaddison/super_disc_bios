@@ -73,6 +73,17 @@ copying an existing file and editing as necessary, then defining `LANG` in
 specific length for the translation to assemble correctly.
 
 
+## Thanks/Credits
+
+- Martin "Nocash" Korth's ["fullsnes"](https://problemkaputt.de/fullsnes.htm)
+  documentation on both the SNES and the SFX-100 prototype was invaluable to
+  this project.
+
+- Alex "Dotsarecool" Losego's nifty graphical disassembler
+  [DiztinGUIsh](https://github.com/Dotsarecool/DiztinGUIsh) was used for the
+  initial disassembly and rough labeling.
+
+
 ## Legal
 
 Of course, this disassembly will by its very nature allow the recreation of
